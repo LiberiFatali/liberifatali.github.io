@@ -15,6 +15,6 @@ real-world applications.
 
 ### Tools
 
-- [Công cụ tính lương Gross <-> Net](https://clessvna-public-viva-utileco.hf.space)
+- [Công cụ tính lương Gross <-> Net](https://clessvna-viva-utileco.hf.space/)
 
 - [Phân loại tin bất động sản](https://liberifatali.github.io/takecopter)
