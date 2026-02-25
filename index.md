@@ -11,7 +11,7 @@ Key Strengths
 I bring a deep understanding of algorithms, data structures, and system design, combined with hands-on experience in delivering AI-powered products that bridge research and
 real-world applications.
 
-🖂 _clessvna at gmail.com_
+🖂 _clessvna [at] gmail [dot] com_
 
 ### Tools
 
