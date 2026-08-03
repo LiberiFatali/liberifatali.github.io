@@ -15,6 +15,8 @@ real-world applications.
 
 ### Tools
 
-- [Tính lương Gross <-> Net & Phí chuyển nhượng bất động sản](https://clessvna-viva-utileco.hf.space/)
+- [Tính lương Gross <-> Net & Phí chuyển nhượng bất động sản](https://clessvna-viva-utileco.hf.space)
 
 - [Phân loại tin bất động sản](https://liberifatali.github.io/takecopter)
+
+- [Assistant about Vipassana meditation at UCENLIST (Vietnam)](https://vipassana-ucenlist-agent.vercel.app)
