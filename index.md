@@ -5,7 +5,7 @@ I am a software engineer with over 13 years of professional experience, speciali
 
 Key Strengths
 - Computer Vision: Image/video processing, recognition, and model R&D
-- Backend: Scalable development on-premise, and cloud(AWS, GCP...)
+- Backend: Scalable development on-premises and in the cloud (AWS, GCP...)
 - RAG (Retrieval-Augmented Generation ) with LLM (Large Language Model): Pipeline design and implementation
 
 I bring a deep understanding of algorithms, data structures, and system design, combined with hands-on experience in delivering AI-powered products that bridge research and
@@ -19,4 +19,4 @@ real-world applications.
 
 - [Phân loại tin bất động sản](https://liberifatali.github.io/takecopter)
 
-- [Assistant about Vipassana meditation at UCENLIST (Vietnam)](https://vipassana-ucenlist-agent.vercel.app)
+- [Assistant about Vipassana meditation at UCENLIST (Vietnam)](https://vipassana-assistant.vercel.app)
