@@ -13,15 +13,13 @@ real-world applications.
 
 🖂 _clessvna [at] gmail [dot] com_
 
-### Tools
+#### Tools
+- [Assistant for Vipassana at UCENLIST (Vietnam)](https://vipassana-assistant.vercel.app)
+- [LinkedSpace - Expand LinkedIn messaging space](https://chromewebstore.google.com/detail/linkedspace/accppdjdjgghpmlmpjpepldlahcfngbf)
 
-- [Tính lương Gross <-> Net & Phí chuyển nhượng bất động sản](https://clessvna-viva-utileco.hf.space)
-
-- [Phân loại tin bất động sản](https://liberifatali.github.io/takecopter)
-
-- [Assistant about Vipassana meditation at UCENLIST (Vietnam)](https://vipassana-assistant.vercel.app)
-
-
-### Games
-
+#### Games
 - [Cat basketball by Mon (2023)](https://liberifatali.github.io/cat_basketball.html)
+
+#### In Vietnamese
+- [Tính lương Gross <-> Net & Phí chuyển nhượng bất động sản](https://clessvna-viva-utileco.hf.space)
+- [Phân loại tin bất động sản](https://liberifatali.github.io/takecopter)
