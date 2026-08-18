@@ -1,6 +1,6 @@
 {
   "name": "liberifatali.github.io",
-  "description": "Star Path — personal portfolio built with Astro, Tailwind CSS and DaisyUI (Astrofy-based).",
+  "description": "Personal portfolio built with Astro, Tailwind CSS and DaisyUI (Astrofy-based).",
   "type": "module",
   "version": "4.0.0",
   "private": true,

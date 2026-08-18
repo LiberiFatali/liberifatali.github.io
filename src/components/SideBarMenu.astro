@@ -9,8 +9,9 @@ const activeClass = "bg-base-300"; // For primary color replace with `active` cl
     <li><a class="py-3 text-base" id="cv" href="/cv" is:prefetch>CV</a></li>
     <li>
         <a
+            id="contact"
             class="py-3 text-base"
-            href="mailto:clessvna@gmail.com"
+            href="#"
             target="_blank"
             referrerpolicy="no-referrer-when-downgrade">Contact</a
         >
@@ -20,4 +21,9 @@ const activeClass = "bg-base-300"; // For primary color replace with `active` cl
 <script define:vars={{ sideBarActiveItemID: sideBarActiveItemID, activeClass: activeClass }}>
 const activeItemElem = document.getElementById(sideBarActiveItemID);
 activeItemElem && activeItemElem.classList.add(activeClass);
+
+const contactLink = document.getElementById("contact");
+if (contactLink) {
+    contactLink.href = ["moc", "liamg", "@", "anvsselc"].reverse().join("");
+}
 </script>
