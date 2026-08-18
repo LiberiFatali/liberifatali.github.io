@@ -6,7 +6,7 @@ https://liberifatali.github.io
 ## Pages
 
 - **Home** — introduction and key strengths
-- **CV** — profile, experience, and skills
+- **Profile** — profile, experience, and skills
 - **Projects** — tools, games, and Vietnamese-language utilities
 
 ## Tech Stack

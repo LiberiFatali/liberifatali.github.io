@@ -1,6 +1,17 @@
 ---
-const { title, img, desc, url, badge, tags, target = "_blank" } = Astro.props;
 import { Image } from "astro:assets";
+
+interface Props {
+  title: string;
+  img?: string;
+  desc?: string;
+  url: string;
+  badge?: string;
+  tags?: string[];
+  target?: string;
+}
+
+const { title, img, desc, url, badge, tags, target = "_blank" } = Astro.props;
 const tag_url = url.split("/").slice(0, -1).join("/") + "/tag";
 ---
 
