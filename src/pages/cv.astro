@@ -1,0 +1,50 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+---
+
+<BaseLayout title="CV" sideBarActiveItemID="cv">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Profile</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+    I am a software engineer with over 13 years of professional experience, specializing in AI product
+    development, backend systems, computer vision, and machine learning. I bring a deep understanding of
+    algorithms, data structures, and system design, combined with hands-on experience in delivering
+    AI-powered products that bridge research and real-world applications.
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Software Engineer — AI Products"
+      subtitle="From [Start Date] to [Present] at [Company], [City], [Country]"
+    >
+      Building AI-powered products across computer vision, backend systems, and RAG-based LLM pipelines.
+      Deliver research-to-production solutions on-premises and in the cloud (AWS, GCP).
+    </TimeLineElement>
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-4 columns-2 mx-6">
+    <li>Computer Vision</li>
+    <li>Image/Video Processing</li>
+    <li>Model R&amp;D</li>
+    <li>Backend Development</li>
+    <li>AWS</li>
+    <li>GCP</li>
+    <li>RAG Pipelines</li>
+    <li>LLM / Large Language Models</li>
+    <li>System Design</li>
+    <li>Algorithms</li>
+    <li>Data Structures</li>
+    <li>Machine Learning</li>
+  </ul>
+</BaseLayout>

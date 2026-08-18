@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://liberifatali.github.io/sitemap-index.xml

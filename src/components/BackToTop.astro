@@ -1,0 +1,19 @@
+<button type="button" class="back-to-top btn btn-circle btn-primary" aria-label="Back to top" title="Back to top">
+  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" style="fill: currentColor">
+    <path d="M12 5.5 4 14h5v5h6v-5h5z" />
+  </svg>
+</button>
+
+<script>
+  const button = document.querySelector(".back-to-top");
+  if (button) {
+    const onScroll = () => {
+      button.classList.toggle("is-visible", window.scrollY > 400);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+    button.addEventListener("click", () => {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
+</script>

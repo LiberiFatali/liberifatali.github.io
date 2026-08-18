@@ -1,0 +1,24 @@
+{
+  "name": "liberifatali.github.io",
+  "description": "Star Path — personal portfolio built with Astro, Tailwind CSS and DaisyUI (Astrofy-based).",
+  "type": "module",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^7.0.6",
+    "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/inter": "^5.3.0",
+    "@tailwindcss/vite": "^4.3.3",
+    "astro": "^7.2.3",
+    "daisyui": "^5.7.18",
+    "sharp": "^0.35.3",
+    "tailwindcss": "^4.3.3"
+  }
+}
