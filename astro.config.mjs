@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://liberifatali.github.io',
+  site: 'https://worldcuporacle.org',
   integrations: [mdx(), sitemap()],
   prefetch: {
     prefetchAll: false,
